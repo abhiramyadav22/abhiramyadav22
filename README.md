@@ -7,7 +7,15 @@
 
 ## 🧠 Bio  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1200&color=30C4FF&width=700&center=true&vCenter=true&lines=Backend+Developer+%7C+Java+%7C+Python+%7C+DSA;Spring+Boot+%7C+REST+APIs+%7C+MySQL+%7C+MongoDB;Clean+Code+%7C+Scalable+Systems+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+    ## 🧠 Bio  
+
+Aspiring **Software Development Engineer** specializing in **backend development**,  
+skilled in **Java, Python, SQL, DBMS**, and **Data Structures & Algorithms**.  
+Focused on building **clean**, **scalable**, and **efficient systems** using  
+**Spring Boot**, **REST APIs**, **MySQL**, and **MongoDB**.  
+Driven by problem-solving, real-world project building, and writing code that actually works.
+font=Poppins&weight=500&size=20&pause=1200&color=30C4FF&width=700&center=true&vCenter=true&lines=Backend+Developer+%7C+Java+%7C+Python+%7C+DSA;Spring+Boot+%7C+REST+APIs+%7C+MySQL+%7C+MongoDB;Clean+Code+%7C+Scalable+Systems+%7C+Problem+Solver" />
 </p>
 
 ---
