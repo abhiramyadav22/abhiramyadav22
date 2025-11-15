@@ -1,68 +1,86 @@
-<!-- Animated Name -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=800&color=30C4FF&center=true&vCenter=true&width=600&lines=Abhiram+Yadav;Aspiring+Software+Development+Engineer" alt="Typing SVG"/>
-</h1>
+<!-- ===== HERO ===== -->
+<p align="center">
+  <img src="assets/header.gif" alt="Intro animation" width="100%"/>
+</p>
+
+<h1 align="center">Abhiram Yadav</h1>
+<p align="center">Backend Developer • Java / Python • REST APIs • Clean, Scalable Systems</p>
 
 ---
 
-## 🧠 Bio  
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1200&color=30C4FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Development+Engineer;Backend+Developer+%7C+Java+%7C+Python+%7C+DSA;Spring+Boot+%7C+REST+APIs+%7C+MySQL+%7C+MongoDB" 
-    alt="Bio Typing Animation"
-  />
-</p>
-
-<p align="center" style="font-size:18px;">
-  Skilled in <span style="color:#30C4FF;"><b>Java, Python, SQL, DBMS</b></span> and 
-  <span style="color:#30C4FF;"><b>Data Structures & Algorithms</b></span>.  
-  Passionate about designing <b>clean, scalable</b> backend systems and solving real-world problems with  
-  <span style="color:#30C4FF;"><b>Spring Boot, REST APIs, MySQL, and MongoDB</b></span>.
-</p>
+## 🧠 Bio
+Aspiring Software Development Engineer skilled in **Java, Python, SQL, DBMS** and **Data Structures & Algorithms**. Focused on building scalable backend systems with **Spring Boot**, **REST APIs**, **MySQL**, and **MongoDB**.
 
 ---
 
-## 🧰 Skills  
+## 📌 Featured / Pinned Projects
+> (Pin these repos in your GitHub profile for instant visibility)
 
-### **Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+- **Smart Tourist Safety System (HASH)** — React, Node, MongoDB — <small>Backend APIs, realtime SOS logging, incident dashboard</small>. 🔗 https://github.com/abhiramyadav22/smart-tourist-safety-system  
+- **Image Captioning Assistant** — Python, Flask — <small>Inference APIs + frontend</small>. 🔗 https://github.com/abhiramyadav22/Image-Captioning-Asistant  
+- **Online Doctor Appointment System** — Python, Flask — <small>Scheduling & telemedicine prototype</small>. 🔗 https://github.com/abhiramyadav22/online-doctor-appointment-system
 
-### **Backend & Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-</p>
+---
 
-### **Databases**
+## 🧰 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker"/>
 </p>
 
 ---
 
-## 🌍 Languages I Know
+## 🚀 Selected Projects (deep dive)
+### Smart Tourist Safety System (HASH) — `smart-tourist-safety-system`
+**Role:** Backend lead — Node.js/Express + MongoDB  
+**What I built:** SOS event logger, real-time location streaming, secure ID verification flow.  
+**Impact:** Prototype supports simulated concurrent SOS events; infra-ready for small-scale deployments.  
+**Repo:** https://github.com/abhiramyadav22/smart-tourist-safety-system
 
+---
+
+### Image Captioning Assistant — `Image-Captioning-Asistant`
+**Role:** Full-stack developer — Flask backend for model inference  
+**What I built:** Upload endpoint → server-side inference → caption + alt-text generation.  
+**Notes:** Built asynchronous jobs for model runs; designed a simple batching system to reduce latency.  
+**Repo:** https://github.com/abhiramyadav22/Image-Captioning-Asistant
+
+---
+
+## 💼 Experience
+- **Hackathons / Projects / Coding Clubs** — Parul University (2024–Present)  
+  Built backend-focused projects using Java & Spring Boot; focused on testable, documented APIs.  
+- **Student Mentor** — Parul University (Aug 2024 – Oct 2024)  
+  Mentored 20+ students in DSA and backend fundamentals; ran code review sessions.
+
+---
+
+## 🌍 Languages
+| Language | Proficiency |
+|---|---:|
+| Telugu | ⭐⭐⭐⭐⭐ |
+| English | ⭐⭐⭐⭐⭐ |
+| Hindi | ⭐⭐⭐⭐☆ |
+| German | ⭐⭐⭐☆☆ |
+| Tamil | ⭐☆☆☆☆ |
+
+---
+
+## 📈 GitHub Stats (optional)
 <p align="center">
-  <img src="https://img.shields.io/badge/Telugu-5★-30C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-5★-30C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hindi-4★-30C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/German-3★-30C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tamil-1★-30C4FF?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiramyadav22&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<!-- Animated Language Bars -->
+---
+
+## 📫 Contact
 <p align="center">
-  <img src="https://progress-bar.dev/100/?title=Telugu&color=30C4FF&width=500" />
-  <img src="https://progress-bar.dev/100/?title=English&color=30C4FF&width=500" />
-  <img src="https://progress-bar.dev/80/?title=Hindi&color=30C4FF&width=500" />
-  <img src="https://progress-bar.dev/60/?title=German&color=30C4FF&width=500" />
-  <img src="https://progress-bar.dev/20/?title=Tamil&color=30C4FF&width=500" />
+  <a href="mailto:abhiramyadav002@gmail.com">📧 Email</a> • <a href="https://www.linkedin.com/in/abhi-ram-yadav-8916a6294/">LinkedIn</a>
 </p>
 
 ---
