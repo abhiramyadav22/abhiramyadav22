@@ -15,9 +15,7 @@
     <td width="30%" align="center" valign="top">
       <img src="https://github.com/abhiramyadav22.png" width="200" style="border-radius: 50%; border: 3px solid #00f2ff;" />
       <br><br>
-      <img src="https://img.shields.io/badge/Level-SDE_I-00f2ff?style=for-the-badge&logo=github&labelColor=0D1117" />
       <br>
-      <img src="https://img.shields.io/badge/Focus-System_Design-00f2ff?style=for-the-badge&logo=hashnode&labelColor=0D1117" />
     </td>
   
   </tr>
