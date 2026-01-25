@@ -105,3 +105,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00f2ff,0D1117&height=100&section=footer"/>
 </div>
+<h3 align="center">🤝 <span style="color:#00f2ff">CONNECT_WITH_ME</span></h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhi-ram-yadav-8916a6294/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00f2ff&labelColor=0D1117"/>
+  </a>
+  <a href="mailto:abhiramyadav002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00f2ff&labelColor=0D1117"/>
+  </a>
+</div>
+<br>
