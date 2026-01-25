@@ -19,23 +19,6 @@
       <br>
       <img src="https://img.shields.io/badge/Focus-System_Design-00f2ff?style=for-the-badge&logo=hashnode&labelColor=0D1117" />
     </td>
-    
-    <td width="70%" valign="top">
-      <h3 align="left">⚡ <span style="color:#00f2ff">SYSTEM_STATUS:</span> ONLINE</h3>
-      <code>
-        <span style="color: #00f2ff">const</span> engineer = {<br>
-        &nbsp;&nbsp;name: <span style="color: #a5d6ff">"Abhiram Yadav"</span>,<br>
-        &nbsp;&nbsp;role: <span style="color: #a5d6ff">"SDE & System Architect"</span>,<br>
-        &nbsp;&nbsp;location: <span style="color: #a5d6ff">"Vadodara, India"</span>,<br>
-        &nbsp;&nbsp;code: [<span style="color: #a5d6ff">"Java"</span>, <span style="color: #a5d6ff">"Spring"</span>, <span style="color: #a5d6ff">"System Design"</span>],<br>
-        &nbsp;&nbsp;challenge: <span style="color: #ff7b72">"Scale to 1M Users"</span><br>
-        };
-      </code>
-      <br><br>
-      <blockquote>
-        "Optimizing for <b>latency</b>, <b>throughput</b>, and <b>scalability</b>. Writing code that explains itself."
-      </blockquote>
-    </td>
   
   </tr>
 </table> <td width="70%" valign="top">
@@ -43,8 +26,6 @@
       <code>
         <span style="color: #00f2ff">const</span> engineer = {<br>
         &nbsp;&nbsp;name: <span style="color: #a5d6ff">"Abhiram Yadav"</span>,<br>
-        &nbsp;&nbsp;role: <span style="color: #a5d6ff">"SDE & System Architect"</span>,<br>
-        &nbsp;&nbsp;location: <span style="color: #a5d6ff">"Vadodara, India"</span>,<br>
         &nbsp;&nbsp;code: [<span style="color: #a5d6ff">"Java"</span>, <span style="color: #a5d6ff">"Spring"</span>, <span style="color: #a5d6ff">"System Design"</span>],<br>
         &nbsp;&nbsp;challenge: <span style="color: #ff7b72">"Scale to 1M Users"</span><br>
         };
