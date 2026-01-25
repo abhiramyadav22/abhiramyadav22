@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,00f2ff,0D1117&height=120&section=header&text=&fontSize=0" width="100%"/>
   
-  <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=900&lines=ABHIRAM.YADAV();SYSTEM_ARCHITECT;DSA_MASTER;BUILDING_THE_IMPOSSIBLE" alt="Typing SVG" /></h1>
+  <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=900&lines=ABHIRAM.YADAV();SYSTEM_ARCHITECT;;BUILDING_THE_IMPOSSIBLE" alt="Typing SVG" /></h1>
   
   <p align="center">
     <a href="https://github.com/abhiramyadav22">
@@ -36,8 +36,24 @@
         "Optimizing for <b>latency</b>, <b>throughput</b>, and <b>scalability</b>. Writing code that explains itself."
       </blockquote>
     </td>
+  
   </tr>
-</table>
+</table> <td width="70%" valign="top">
+      <h3 align="left">⚡ <span style="color:#00f2ff">SYSTEM_STATUS:</span> ONLINE</h3>
+      <code>
+        <span style="color: #00f2ff">const</span> engineer = {<br>
+        &nbsp;&nbsp;name: <span style="color: #a5d6ff">"Abhiram Yadav"</span>,<br>
+        &nbsp;&nbsp;role: <span style="color: #a5d6ff">"SDE & System Architect"</span>,<br>
+        &nbsp;&nbsp;location: <span style="color: #a5d6ff">"Vadodara, India"</span>,<br>
+        &nbsp;&nbsp;code: [<span style="color: #a5d6ff">"Java"</span>, <span style="color: #a5d6ff">"Spring"</span>, <span style="color: #a5d6ff">"System Design"</span>],<br>
+        &nbsp;&nbsp;challenge: <span style="color: #ff7b72">"Scale to 1M Users"</span><br>
+        };
+      </code>
+      <br><br>
+      <blockquote>
+        "Optimizing for <b>latency</b>, <b>throughput</b>, and <b>scalability</b>. Writing code that explains itself."
+      </blockquote>
+    </td>
 
 ---
 
