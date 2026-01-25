@@ -1,74 +1,145 @@
-<!-- ===== ANIMATED NAME HEADER ===== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=38&duration=3000&pause=800&color=30C4FF&center=true&vCenter=true&width=650&lines=Abhiram+Yadav;Backend+Developer;Java+%7C+Python+%7C+DSA+%7C+APIs" />
-</h1>
+<!-- =========================================================
+██████╗  ██████╗ ██████╗     ███████╗████████╗██╗   ██╗██╗     
+██╔══██╗██╔═══██╗██╔══██╗    ██╔════╝╚══██╔══╝██║   ██║██║     
+██████╔╝██║   ██║██████╔╝    ███████╗   ██║   ██║   ██║██║     
+██╔══██╗██║   ██║██╔══██╗    ╚════██║   ██║   ██║   ██║██║     
+██████╔╝╚██████╔╝██║  ██║    ███████║   ██║   ╚██████╔╝███████╗
+╚═════╝  ╚═════╝ ╚═╝  ╚═╝    ╚══════╝   ╚═╝    ╚═════╝ ╚══════╝
+========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=30C4FF&height=80&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=44&duration=2200&pause=900&color=30C4FF&center=true&vCenter=true&width=1000&lines=Abhiram+Yadav;Backend+Engineer;Java+%7C+Spring+Boot+%7C+APIs;Designing+Scalable+Backend+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=30C4FF"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=30C4FF"/>
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=30C4FF"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=30C4FF&height=140&section=header&animation=fadeIn"/>
 </p>
 
 ---
 
-## 🧠 Bio  
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1200&color=30C4FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Development+Engineer;Backend+Specialist+in+Spring+Boot+%26+APIs;Java+%7C+Python+%7C+SQL+%7C+DBMS+%7C+MongoDB;Clean+Code+%7C+Scalable+Systems+%7C+Problem+Solver"
-  />
-</p>
+## 🧠 Executive Summary
+> **Backend Engineer** with a strong focus on **clean architecture, scalable APIs, and production-grade systems**.
 
-<p align="center" style="font-size:17px;">
-  I design and build <b>clean, scalable backend systems</b> using  
-  <span style="color:#30C4FF"><b>Java, Spring Boot, MySQL, MongoDB</b></span>.  
-  I enjoy solving complex problems, writing efficient APIs,  
-  and turning real-world challenges into production-ready solutions.
+I build backend services that are **reliable, observable, and easy to evolve**.  
+My work emphasizes **correctness first**, then performance and scale.
+
+- ⚙️ Java & Spring Boot expert  
+- 📦 REST API & data modeling specialist  
+- 🧩 Strong DSA + system design fundamentals  
+- 🚀 Production-minded engineer  
+
+---
+
+## 🧬 Core Technology Stack (Animated)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,redis,docker,kafka,aws,linux&theme=dark"/>
 </p>
 
 ---
 
-## 🧰 Skills
-
-### **Programming Languages**
+## 🏛 Engineering Pillars
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-### **Backend & Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-</p>
-
-### **Databases**
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2800&pause=1200&color=30C4FF&center=true&vCenter=true&width=900&lines=Clean+Architecture;Scalability+by+Design;Observability+over+Guesswork;Readable+Code+Always;APIs+as+Products"/>
 </p>
 
 ---
 
-## 🌍 Languages I Know
+## 🧰 Professional Skill Set
+**Languages**  
+`Java` · `Python` · `C`
 
+**Backend & Frameworks**  
+`Spring Boot` · `Spring Security` · `Flask` · `REST APIs`
+
+**Data & Messaging**  
+`MySQL` · `MongoDB` · `Redis` · `Kafka`
+
+**DevOps & Cloud**  
+`Docker` · `CI/CD` · `AWS (EC2, S3, RDS)` · `Linux`
+
+**Quality & Design**  
+`JUnit` · `Integration Testing` · `OpenAPI` · `System Design`
+
+---
+
+## 🏗 Flagship Projects
+> These are **architecture-first**, not toy projects.
+
+### 🔹 Distributed Order Service
+**Tech:** Java · Spring Boot · MySQL · Kafka · Docker  
+- Event-driven microservice architecture  
+- Idempotent APIs & transactional consistency  
+- Producer–consumer messaging  
+🔗 Repo → `PROJECT_LINK`
+
+---
+
+### 🔹 Authentication & Authorization Platform
+**Tech:** Spring Security · JWT · Redis  
+- Role-based access control  
+- Token lifecycle management  
+- Secure API gateway patterns  
+🔗 Repo → `PROJECT_LINK`
+
+---
+
+### 🔹 Streaming Data Pipeline
+**Tech:** Python · Kafka · MongoDB  
+- Stream ingestion & processing  
+- Fault-tolerant consumers  
+- Scalable storage design  
+🔗 Repo → `PROJECT_LINK`
+
+---
+
+## 📊 GitHub Intelligence (Live)
 <p align="center">
-  <img src="https://img.shields.io/badge/Telugu-⭐⭐⭐⭐⭐-30C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-⭐⭐⭐⭐⭐-30C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hindi-⭐⭐⭐⭐☆-30C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/German-⭐⭐⭐☆☆-30C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tamil-⭐☆☆☆☆-30C4FF?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://progress-bar.dev/100/?title=Telugu&color=30C4FF&width=450" />
-  <img src="https://progress-bar.dev/100/?title=English&color=30C4FF&width=450" />
-  <img src="https://progress-bar.dev/80/?title=Hindi&color=30C4FF&width=450" />
-  <img src="https://progress-bar.dev/60/?title=German&color=30C4FF&width=450" />
-  <img src="https://progress-bar.dev/20/?title=Tamil&color=30C4FF&width=450" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌍 Languages
+<p align="center">
+  <img src="https://progress-bar.dev/100/?title=Telugu&color=30C4FF"/>
+  <img src="https://progress-bar.dev/100/?title=English&color=30C4FF"/>
+  <img src="https://progress-bar.dev/80/?title=Hindi&color=30C4FF"/>
+  <img src="https://progress-bar.dev/60/?title=German&color=30C4FF"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-30C4FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-30C4FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="LINK_TO_RESUME">
+    <img src="https://img.shields.io/badge/Resume-30C4FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=30C4FF&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=30C4FF&height=140&section=footer"/>
 </p>
+
+<!-- ================== END ================== -->
